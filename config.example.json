@@ -1,0 +1,5 @@
+{
+    "endpoint": "https://api.example.com",
+    "shortName": "phillytrs",
+    "Authorization": "Bearer wasd"
+}
